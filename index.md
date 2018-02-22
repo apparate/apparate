@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Apparate
 
-You can use the [editor on GitHub](https://github.com/apparate/apparate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Apparate is a namespace created by [chrisnharvey](https://github.com/chrisnharvey), a developer from the UK.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why?
 
-### Markdown
+The idea behind Apparate is to have a brand behind the software we release, instead of releasing it under our own namespace, we have a single, memorable and easy to type namespace.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Apparate isn't just a place for me to release the software I create, Apparate is a place for any developer to release the cool things they've been working on. 
 
-```markdown
-Syntax highlighted code block
+## How do I add my software?
 
-# Header 1
-## Header 2
-### Header 3
+To list your software here, there are a few soft guidelines that should be followed (but aren't required).
 
-- Bulleted
-- List
+* Released under an OSI or FSF approved license.
+* Have tests
+* Use semantic versioning
+* Keep a changelog
+* Use a CI service to automatically run tests
+* Have a kickass readme and/or documentation
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apparate/apparate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Open an issue on this Github repo, starting the issue title with "[Listing Request]", describing your project and the reasons why your software should be listed.
